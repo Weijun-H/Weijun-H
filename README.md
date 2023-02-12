@@ -6,7 +6,7 @@
 <a href="https://twitter.com/huangweijun1001"><img src="https://img.shields.io/badge/@huangweijun1001-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-I'm Msc student at DTU, Denmark. I'm interested in system programming, database and distributed system. I'm currently contirbuting on [MariaDB](github.com/MariaDB/server).
+I'm Msc student at [DTU](https://www.dtu.dk/english), Denmark. I'm interested in system programming, database and distributed system. I'm currently contirbuting on [MariaDB](github.com/MariaDB/server).
 ## Previous open source contributions:
 - LFX Mentorship at [Vitess](github.com/vitessio/vitess), which is a database clustering system for horizontal scaling of MySQL.
 - Alibaba Summer of Code at [PolarDB](github.com/alibaba/polardb), which is a distributed database system.
