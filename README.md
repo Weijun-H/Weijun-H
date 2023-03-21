@@ -8,6 +8,7 @@
 
 I'm an Msc student at [DTU](https://www.dtu.dk/english), Denmark. I'm interested in system programming, database management system, and distributed system. I'm currently contributing to [MariaDB](https://github.com/MariaDB/server), [arrow-datafusion](https://github.com/apache/arrow-datafusion) and [arrow-rs](https://github.com/apache/arrow-rs). When not working on technical projects, I enjoy rock climbing 🧗🏻‍♀️.
 ## Previous open source contributions:
+- Google Summer of Code **Mentor** at [MariaDB](https://github.com/MariaDB/server)
 - LFX Mentorship at [Vitess](https://github.com/vitessio/vitess), which is a database clustering system for horizontal scaling of MySQL.
 - Alibaba Summer of Code at [PolarDB](https://github.com/alibaba/polardb), which is a distributed database system.
 - Google Summer of Code at [MariaDB](https://github.com/MariaDB/server), which is commercially supported fork of the MySQL relational database management system.
