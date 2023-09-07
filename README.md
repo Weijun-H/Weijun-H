@@ -8,8 +8,6 @@
 
 I'm interested in system programming, database management system, and distributed system. I'm currently contributing to [arrow-datafusion](https://github.com/apache/arrow-datafusion) and [arrow-rs](https://github.com/apache/arrow-rs). When not working on technical projects, I enjoy rock climbing 🧗🏻‍♀️. 
 
-Looking for a Ph.D. opportunity in data management now.
-
 ## Previous open source contributions:
 - Google Summer of Code **Mentor** at [MariaDB](https://github.com/MariaDB/server)
 - LFX Mentorship at [Vitess](https://github.com/vitessio/vitess), which is a database clustering system for horizontal scaling of MySQL.
