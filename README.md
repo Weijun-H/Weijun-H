@@ -6,7 +6,7 @@
 <a href="https://twitter.com/huangweijun1001"><img src="https://img.shields.io/badge/@huangweijun1001-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-I'm interested in system programming, database management system, and distributed system. I'm currently contributing to [arrow-datafusion](https://github.com/apache/arrow-datafusion) and [arrow-rs](https://github.com/apache/arrow-rs). When not working on technical projects, I enjoy rock climbing 🧗🏻‍♀️. 
+I'm interested in system programming, database management system, and distributed system. I'm currently contributing to [Datafusion](https://github.com/apache/arrow-datafusion) and [arrow-rs](https://github.com/apache/arrow-rs). When not working on technical projects, I enjoy rock climbing 🧗🏻‍♀️. 
 
 ## Previous open source contributions:
 - LFX Mentorship at [Vitess](https://github.com/vitessio/vitess), which is a database clustering system for horizontal scaling of MySQL.
