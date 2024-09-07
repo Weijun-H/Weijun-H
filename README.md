@@ -6,7 +6,9 @@
 <a href="https://twitter.com/huangweijun1001"><img src="https://img.shields.io/badge/@huangweijun1001-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-I'm interested in system programming, database management system, and distributed system. I'm currently contributing to [Datafusion](https://github.com/apache/datafusion). When not working on technical projects, I enjoy rock climbing 🧗🏻‍♀️. 
+I'm currently contributing as a committer to [Datafusion](https://github.com/apache/datafusion) and actively involved with [ParadeDB](https://github.com/paradedb/paradedb).
+
+Outside of technical projects, I enjoy rock climbing 🧗🏻‍♀️ and boxing 🥊.
 
 ## Previous open source contributions:
 - LFX Mentorship at [Vitess](https://github.com/vitessio/vitess), which is a database clustering system for horizontal scaling of MySQL.
