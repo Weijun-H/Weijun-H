@@ -12,7 +12,7 @@ Outside of technical projects, I enjoy rock climbing 🧗🏻‍♀️ and boxin
 
 ## Previous open source contributions:
 - LFX Mentorship at [Vitess](https://github.com/vitessio/vitess), which is a database clustering system for horizontal scaling of MySQL.
-- Alibaba Summer of Code at [PolarDB](https://github.com/alibaba/polardb), which is a distributed database system.
+- Alibaba Summer of Code at [PolarDB](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL), which is a distributed database system.
 - Google Summer of Code at [MariaDB](https://github.com/MariaDB/server), which is commercially supported fork of the MySQL relational database management system.
 
 If you have any questions or if there's anything I can help with, feel free to reach out to me by [email](mailto:huangweijun1001@gmail.com). I'm always happy to connect and collaborate with others.
