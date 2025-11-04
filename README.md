@@ -6,7 +6,7 @@
 <a href="https://twitter.com/huangweijun1001"><img src="https://img.shields.io/badge/@huangweijun1001-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-I'm working for [OrbDB](https://orbdb.github.io/) and contributing as a committer to [Datafusion](https://github.com/apache/datafusion).
+I'm working for [Flarion](https://www.flarion.io/) and contributing as a committer to [Datafusion](https://github.com/apache/datafusion).
 
 Outside of technical projects, I enjoy rock climbing 🧗🏻‍♀️, boxing 🥊 and Judo 🥋.
 
