@@ -10,7 +10,6 @@ I'm working for [Flarion](https://www.flarion.io/) and contributing as a committ
 
 Outside of technical projects, I enjoy rock climbing 🧗🏻‍♀️, boxing 🥊 and Judo 🥋.
 
-📫 Currently open to new opportunities
 
 ## Previous open source contributions:
 - LFX Mentorship at [Vitess](https://github.com/vitessio/vitess), which is a database clustering system for horizontal scaling of MySQL.
